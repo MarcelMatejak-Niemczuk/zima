@@ -1,0 +1,126 @@
+body{
+    background-color: #EEEEEE;
+    font-family: Helvetica;
+}
+
+main{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+
+p{
+    font-weight: bold;
+    color: navy;
+}
+
+label{
+    width: 200px;
+    margin-right: 50px; 
+
+}
+
+#tekst{
+    height: 100px;
+    width: 200px;
+}
+
+#Zgłoszenie{
+    height: 200px;
+    font-size: 20px;
+}
+
+header{
+   display: flex;
+}
+
+#gif{
+    background-color: #DDDDDD;
+    height: 200px;
+}
+
+
+label{
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: left;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+input, textarea{
+    margin-bottom: 15px;
+    padding: 8px;
+}
+
+.a{
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px;
+    font-size: 150%;
+    color: navy;
+    font-weight: bold;
+
+}
+
+#d{
+    display: flex;
+    background-color: lightblue;
+    height: 100px;
+    width: 50%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#m{
+    display: flex;
+    background-color: lightblue;
+    height: 100px;
+    width: 50%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#t{
+    margin-top: 20px;
+    padding-right: 20px;
+    margin-left: 130px;
+    font-size: 14px;
+}
+
+.ch{
+    margin-top: 10px;
+    padding-right: 10px;
+    margin-left: 90px;
+}
+
+.button{
+    display: flex;
+    gap: 10px;
+    transition: none;
+    margin-left: 220px;
+}
+
+button{
+    background-color: lightblue;
+}
+
+footer{
+    border-top: 3px solid;
+    padding: 10px;
+    font-size: 20px;
+    color: #000;
+    width: 80%;
+    margin: auto;
+}
+
+#autor{
+    text-align: right;
+    font-size: 14px;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+    bottom: 0;
+}
+
+
